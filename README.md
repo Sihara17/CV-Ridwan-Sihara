@@ -2,7 +2,10 @@
 
 
 
-<Link href="./assets/5084525163845560448.vrm" className="text-blue-600 hover:underline font-medium"> 
+<Link href="./assets/Vrm.vrm" className="text-blue-600 hover:underline font-medium"> 
+  Lihat Partner & Backlink
+</Link>
+<Link href="./Vrm.vrm" className="text-blue-600 hover:underline font-medium"> 
   Lihat Partner & Backlink
 </Link>
 
