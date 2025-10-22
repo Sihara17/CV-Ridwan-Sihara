@@ -25,11 +25,10 @@ Saya adalah seorang Admin sekaligus Developer dengan pengalaman dalam:
 Aplikasi Tap-to-Earn berbasis Telegram WebApp menggunakan React dan Firebase, dengan sistem energi, cooldown, leaderboard, dan UI interaktif.
 
 ### Lainnya
-Projek lainnya akan segera ditambahkan di folder `projects/others`.
+Projek lainnya akan segera ditambahkan di folder `projects/others`./
 
 ## Resume
-Resume saya bisa diakses pada folder [`assets/resume.pdf`](./assets/resume.pdf)
-[`assets/resume.pdf`](./assets/Vrm.vrm)
+Resume saya bisa diakses pada folder (./assets/Vrm.vrm)
 
 ---
 
