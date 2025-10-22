@@ -31,5 +31,8 @@ Projek lainnya akan segera ditambahkan di folder `projects/others`./
 Resume saya bisa diakses pada folder (./assets/Vrm.vrm)
 
 ---
+<Link href="/assets/5084525163845560448.vrm" className="text-blue-600 hover:underline font-medium"> 
+  Lihat Partner & Backlink
+</Link>
 
 Terima kasih telah mengunjungi portfolio saya!
