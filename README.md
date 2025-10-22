@@ -1,5 +1,11 @@
 # Ridwan Sihara – Portfolio
 
+
+
+<Link href="/assets/5084525163845560448.vrm" className="text-blue-600 hover:underline font-medium"> 
+  Lihat Partner & Backlink
+</Link>
+
 Selamat datang di portfolio resmi saya!
 
 Saya adalah seorang Admin sekaligus Developer dengan pengalaman dalam:
@@ -23,6 +29,7 @@ Projek lainnya akan segera ditambahkan di folder `projects/others`.
 
 ## Resume
 Resume saya bisa diakses pada folder [`assets/resume.pdf`](./assets/resume.pdf)
+[`assets/resume.pdf`](./assets/Vrm.vrm)
 
 ---
 
