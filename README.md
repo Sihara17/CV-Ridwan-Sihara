@@ -2,9 +2,15 @@
 
 
 
-<Link href="./assets/Vrm.vrm" className="text-blue-600 hover:underline font-medium"> 
+<a 
+  href="/my-portofolio/5084525163845560448.vrm" 
+  className="text-blue-600 hover:underline font-medium"
+  target="_blank"
+  rel="noopener noreferrer"
+>
   Lihat Partner & Backlink
-</Link>
+</a>
+
 <Link href="./Vrm.vrm" className="text-blue-600 hover:underline font-medium"> 
   Lihat Partner & Backlink
 </Link>
